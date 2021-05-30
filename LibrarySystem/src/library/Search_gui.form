@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="library.Search_gui">
+  <grid id="27dc6" binding="panel1" default-binding="true" layout-manager="GridBagLayout">
+    <constraints>
+      <xy x="13" y="16" width="639" height="442"/>
+    </constraints>
+    <properties/>
+    <border type="none"/>
+    <children/>
+  </grid>
+</form>
